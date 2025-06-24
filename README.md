@@ -1,6 +1,6 @@
 # Titanic Dataset - Exploratory Data Analysis (EDA)
 
-[Download the Titanic Dataset](Titanic-Dataset-Cleaned.csv)
+[Download the Titanic Dataset](https://github.com/SakshamBindal17/Titanic-Dataset-Cleaning/blob/main/Titanic-Dataset-Cleaned.csv)
 
 ## Overview
 
