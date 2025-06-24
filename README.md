@@ -133,4 +133,4 @@ This EDA reveals that **Sex**, **Pclass**, and **Fare** are the most important f
 
 ---
 
-**Prepared by [Saksham Bindal]**
+**Prepared by Saksham Bindal**
