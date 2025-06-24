@@ -83,7 +83,7 @@ plt.title('Correlation Matrix')
 plt.show()
 ```
 
-#### **B. Pairplot (Optional)**
+#### **B. Pairplot**
 
 ```
 sns.pairplot(df[['Survived', 'Age', 'Fare', 'SibSp', 'Parch']])
